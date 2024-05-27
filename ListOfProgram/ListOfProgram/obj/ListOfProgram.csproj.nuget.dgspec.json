@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ajay.Pandena\\source\\repos\\ListOfProgram\\ListOfProgram\\ListOfProgram.csproj": {}
+    "C:\\Users\\Ajay.Pandena\\Desktop\\GitHub\\Project_C-\\ListOfProgram\\ListOfProgram\\ListOfProgram.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ajay.Pandena\\source\\repos\\ListOfProgram\\ListOfProgram\\ListOfProgram.csproj": {
+    "C:\\Users\\Ajay.Pandena\\Desktop\\GitHub\\Project_C-\\ListOfProgram\\ListOfProgram\\ListOfProgram.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ajay.Pandena\\source\\repos\\ListOfProgram\\ListOfProgram\\ListOfProgram.csproj",
+        "projectUniqueName": "C:\\Users\\Ajay.Pandena\\Desktop\\GitHub\\Project_C-\\ListOfProgram\\ListOfProgram\\ListOfProgram.csproj",
         "projectName": "ListOfProgram",
-        "projectPath": "C:\\Users\\Ajay.Pandena\\source\\repos\\ListOfProgram\\ListOfProgram\\ListOfProgram.csproj",
+        "projectPath": "C:\\Users\\Ajay.Pandena\\Desktop\\GitHub\\Project_C-\\ListOfProgram\\ListOfProgram\\ListOfProgram.csproj",
         "packagesPath": "C:\\Users\\Ajay.Pandena\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ajay.Pandena\\source\\repos\\ListOfProgram\\ListOfProgram\\obj\\",
+        "outputPath": "C:\\Users\\Ajay.Pandena\\Desktop\\GitHub\\Project_C-\\ListOfProgram\\ListOfProgram\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
