@@ -7,6 +7,7 @@
 
         static void Main(string[] args)
         {
+            SayHello("Ajay");
             //int res = LengthOfLongestSubstring("pwwkew");
             int res = LengthOfLongestSubstring("12345");
             Console.WriteLine(res);
@@ -40,7 +41,10 @@
                 return lenth;
             }
         }
-
+        public static void SayHello(string str)
+        {
+            Console.WriteLine("Hello how are you {0}",str);
+        }
 
     }
 }
